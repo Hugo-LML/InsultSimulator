@@ -1,1 +1,1 @@
-This project is a game using python & pygmame.
+This project is a game using python & pygame.
